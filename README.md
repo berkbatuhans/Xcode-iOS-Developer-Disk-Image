@@ -7,7 +7,7 @@ September 19, 2019 20:00 Thursday with Turkey Time 'published in iOS Version 13 
 
 It is enough to install Developer Disk Image in Device Support folder in Xcode.
 
-1. [iOS 13.0.zip Download](https://github.com/berkbatuhans/Xcode-iOS-Developer-Disk-Image)
+1. [iOS 13.0.zip Download](https://github.com/berkbatuhans/Xcode-iOS-Developer-Disk-Image/releases/download/13.0/13.0.zip)
 2. Terminal > cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 3. Terminal > open . 
 
